@@ -5,7 +5,7 @@ Repositório criado totalmente dedicado para a solução do "Desafio De Programa
 
  •  Linguagem: Java
  
- •  Ferramenta: Eclipse(IDE)
+ •  Ferramenta: Eclipse (IDE)
  
  •  Versionamento: Git
  <hr>

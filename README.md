@@ -49,8 +49,6 @@ Ao escrever testes, sempre verifique se a importação dos pacotes do JUnit na C
 
 <h2 id="ref">Referências</h2>
 
-<a href="https://docs.spring.io/spring-framework/docs/current/reference/html/testing.html#testing-introduction" target="_blank">Documentação Oficial do Spring Testing</a>
-
 <a href="https://junit.org/junit5/" target="_blank">Página Oficial do JUnit5</a>
 
 <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank">Documentação Oficial do JUnit 5</a>

@@ -9,7 +9,34 @@ Repositório criado totalmente dedicado para a solução do "Desafio De Programa
  
  •  Versionamento: Git
  <hr>
+ 
+# Instruções
 
+1º Verifique que você ja tem o jdk do java instalado no seu computador
+
+link para instalação: https://www.oracle.com/java/technologies/downloads/
+
+2º baixe uma IDE da sua preferencia ex: eclipse, intellij links: Eclipse:https://www.eclipse.org/downloads/ Intellij:https://www.jetbrains.com/pt-br/idea/
+
+3° Verifique que você ja tem o git já instalado no seu computador
+
+link para instalação: https://git-scm.com/downloads
+
+3° Crie uma pasta na area de trabalho do seu computador entre nela e click com botão direito do mouse
+
+4° Vai abrir uma janelinha e click na opção 'Git Bash Here'
+
+5° Vai abrir uma janela do prompt de comando do git 
+
+6° Escreva esse comando abaixo no prompt de comando do git 
+
+7° git clone https://github.com/RobsonCoura/Teste-Academia-Capgemini.git
+
+8º baixe o projeto aqui
+
+9º importe o projeto na IDE
+
+10º Agora só executar 
 
 ## Boas Práticas: Passo a passo como executar o JUnit Test 5
 

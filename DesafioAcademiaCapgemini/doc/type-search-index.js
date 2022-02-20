@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.capgemini.academia","l":"Q3_Anagrama"}];updateSearchResults();

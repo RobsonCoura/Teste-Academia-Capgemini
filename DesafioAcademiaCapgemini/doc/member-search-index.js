@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.capgemini.academia","c":"Q3_Anagrama","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"br.capgemini.academia","c":"Q3_Anagrama","l":"Q3_Anagrama()","u":"%3Cinit%3E()"}];updateSearchResults();

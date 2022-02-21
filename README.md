@@ -1,22 +1,22 @@
-# Teste-Academia-Capgemini
+# Teste-Academia-Capgemini 💻🚀🍀
 Repositório criado totalmente dedicado para a solução do "Desafio De Programação" sugerido pela Academia Capgemini
 
 <hr>
 
- •  Linguagem: Java
+ •  Linguagem: Java ♨
  
- •  Ferramenta: Eclipse (IDE)
+ •  Ferramenta: Eclipse (IDE) 💻
  
  •  Versionamento: Git
  <hr>
  
-# Documentação
+# Documentação 📄✍🏻
 
-📝 [Javadoc]
+📝 [Javadoc] - O Javadoc se encontra dentro da pasta DesafioAcademiaCapgemini aqui em cima 😊👆🏻.
 
 
 
-# Instruções
+# Instruções 🚦
 
 1º Verifique que você ja tem o jdk do java instalado no seu computador
 
@@ -44,7 +44,7 @@ link para instalação: https://git-scm.com/downloads
 
 10º Agora só executar 
 
-## Boas Práticas: Passo a passo como executar o JUnit Test 5
+## Boas Práticas: Passo a passo como executar o JUnit Test 5 👣
 
 8. <a href="#run">Execute os testes</a>
 9. <a href="#ref">Referências</a>
